@@ -2,7 +2,6 @@
 ## Tech Stack
 #### Backend
 - Go (Golang)
-- Fiber
 #### Frontend
 - React
 - Vite
@@ -11,11 +10,17 @@
 ## How to clone this repository
 **Clone With HTTPS**
 > `git clone https://github.com/azrilpramudia/crud-react-go.git`
+
+<br>
+
 **Clone With SSH**
-> `git clone`
+> `git clone git@github.com:azrilpramudia/crud-react-go.git`
+
 ## Install Dependencies
 > `npm install`
+
 ## Run on Local (for development)
 > `npm run dev`
+
 ## Credits
 - Himatif Uninus
