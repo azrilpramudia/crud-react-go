@@ -9,7 +9,13 @@
 - Tailwind
 
 ## How to clone this repository
+**Clone With HTTPS**
+> `git clone https://github.com/azrilpramudia/crud-react-go.git`
+**Clone With SSH**
+> `git clone`
 ## Install Dependencies
-## Run on Local
+> `npm install`
+## Run on Local (for development)
+> `npm run dev`
 ## Credits
 - Himatif Uninus
