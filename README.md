@@ -9,5 +9,7 @@
 - Tailwind
 
 ## How to clone this repository
+## Install Dependencies
+## Run on Local
 ## Credits
 - Himatif Uninus
